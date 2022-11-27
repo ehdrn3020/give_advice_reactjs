@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/give_advice_reactjs/static/css/main.9bd4b207.css",
+    "main.js": "/give_advice_reactjs/static/js/main.33e0f2ae.js",
+    "static/media/mountain.jpg": "/give_advice_reactjs/static/media/mountain.b1cf128d290de1088447.jpg",
+    "index.html": "/give_advice_reactjs/index.html",
+    "main.9bd4b207.css.map": "/give_advice_reactjs/static/css/main.9bd4b207.css.map",
+    "main.33e0f2ae.js.map": "/give_advice_reactjs/static/js/main.33e0f2ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd4b207.css",
+    "static/js/main.33e0f2ae.js"
+  ]
+}
